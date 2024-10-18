@@ -1,0 +1,2 @@
+# Hand-Written-Digit-Recognition-with-MNIST-and-Custom-Data-
+This repository features two handwritten digit recognition projects. The first project leverages the MNIST dataset to demonstrate effective training and evaluation techniques for ML models. The second project involves creating a custom dataset from user-drawn digits in a painting application, highlighting practical applications of image processing.
